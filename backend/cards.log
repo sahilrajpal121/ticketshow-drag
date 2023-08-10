@@ -1,0 +1,58 @@
+[2023-07-30 00:28:09,543] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 00:28:09] "[35m[1mGET /api/venue HTTP/1.1[0m" 500 -
+[2023-07-30 00:28:44,945] INFO werkzeug in _internal:  * Detected change in 'D:\\IITM\\MAD-2 PROJECT\\TicketShow\\code\\backend\\api\\VenueAPI.py', reloading
+[2023-07-30 00:28:45,336] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 00:28:46,682] WARNING werkzeug in _internal:  * Debugger is active!
+[2023-07-30 00:28:46,687] INFO werkzeug in _internal:  * Debugger PIN: 120-538-762
+[2023-07-30 00:28:48,622] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 00:28:48] "[31m[1mGET /api/venue HTTP/1.1[0m" 400 -
+[2023-07-30 00:59:43,525] INFO werkzeug in _internal:  * Detected change in 'D:\\IITM\\MAD-2 PROJECT\\TicketShow\\code\\backend\\api\\VenueAPI.py', reloading
+[2023-07-30 00:59:43,926] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 00:59:45,540] WARNING werkzeug in _internal:  * Debugger is active!
+[2023-07-30 00:59:45,545] INFO werkzeug in _internal:  * Debugger PIN: 120-538-762
+[2023-07-30 01:01:54,775] INFO werkzeug in _internal:  * Detected change in 'D:\\IITM\\MAD-2 PROJECT\\TicketShow\\code\\backend\\api\\VenueAPI.py', reloading
+[2023-07-30 01:01:54,965] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 01:01:56,372] WARNING werkzeug in _internal:  * Debugger is active!
+[2023-07-30 01:01:56,378] INFO werkzeug in _internal:  * Debugger PIN: 120-538-762
+[2023-07-30 01:01:58,762] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 01:01:58] "[35m[1mGET /api/venue HTTP/1.1[0m" 500 -
+[2023-07-30 01:02:57,998] INFO werkzeug in _internal:  * Detected change in 'D:\\IITM\\MAD-2 PROJECT\\TicketShow\\code\\backend\\api\\VenueAPI.py', reloading
+[2023-07-30 01:02:58,275] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 01:02:59,524] WARNING werkzeug in _internal:  * Debugger is active!
+[2023-07-30 01:02:59,532] INFO werkzeug in _internal:  * Debugger PIN: 120-538-762
+[2023-07-30 01:07:11,300] INFO werkzeug in _internal:  * Detected change in 'D:\\IITM\\MAD-2 PROJECT\\TicketShow\\code\\backend\\api\\VenueAPI.py', reloading
+[2023-07-30 01:07:11,486] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 01:07:12,797] WARNING werkzeug in _internal:  * Debugger is active!
+[2023-07-30 01:07:12,804] INFO werkzeug in _internal:  * Debugger PIN: 120-538-762
+[2023-07-30 01:07:14,681] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 01:07:14] "GET /api/venue HTTP/1.1" 200 -
+[2023-07-30 01:07:19,814] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 01:07:19] "GET /api/venue HTTP/1.1" 200 -
+[2023-07-30 14:43:50,098] INFO werkzeug in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-07-30 14:43:50,099] INFO werkzeug in _internal: [33mPress CTRL+C to quit[0m
+[2023-07-30 14:43:50,100] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 14:43:51,382] WARNING werkzeug in _internal:  * Debugger is active!
+[2023-07-30 14:43:51,386] INFO werkzeug in _internal:  * Debugger PIN: 120-538-762
+[2023-07-30 14:46:15,474] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 14:46:15] "GET /api/venue HTTP/1.1" 200 -
+[2023-07-30 14:46:57,869] INFO werkzeug in _internal:  * Detected change in 'D:\\IITM\\MAD-2 PROJECT\\TicketShow\\code\\backend\\api\\VenueAPI.py', reloading
+[2023-07-30 14:46:58,177] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 14:46:59,881] WARNING werkzeug in _internal:  * Debugger is active!
+[2023-07-30 14:46:59,881] INFO werkzeug in _internal:  * Debugger PIN: 120-538-762
+[2023-07-30 14:46:59,981] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 14:46:59] "[31m[1mGET /api/venue HTTP/1.1[0m" 401 -
+[2023-07-30 14:47:11,422] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 14:47:11] "POST /api/login HTTP/1.1" 200 -
+[2023-07-30 14:47:38,190] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 14:47:38] "GET /api/venue HTTP/1.1" 200 -
+[2023-07-30 15:25:27,487] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 15:25:27] "[32mGET /api/test HTTP/1.1[0m" 308 -
+[2023-07-30 15:25:27,618] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 15:25:27] "GET /api/test/ HTTP/1.1" 200 -
+[2023-07-30 15:25:58,569] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 15:25:58] "OPTIONS /api/login HTTP/1.1" 200 -
+[2023-07-30 15:25:58,808] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 15:25:58] "POST /api/login HTTP/1.1" 200 -
+[2023-07-30 15:25:58,888] INFO werkzeug in _internal: 127.0.0.1 - - [30/Jul/2023 15:25:58] "GET /api/test/ HTTP/1.1" 200 -
+[2023-07-30 15:28:30,351] INFO werkzeug in _internal:  * Detected change in 'D:\\IITM\\MAD-2 PROJECT\\TicketShow\\code\\backend\\app.py', reloading
+[2023-07-30 15:28:30,674] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 16:28:42,353] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 16:42:32,495] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 16:42:40,822] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 16:44:25,592] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 16:44:53,678] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 17:20:36,008] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 17:22:35,303] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-30 17:25:15,834] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-31 00:32:41,316] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-31 00:41:13,409] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-31 00:41:32,785] INFO werkzeug in _internal:  * Restarting with stat
+[2023-07-31 01:38:15,515] INFO werkzeug in _internal:  * Restarting with stat
